@@ -13,7 +13,7 @@ secrets:
 ```
 <br>
 
-The only thing left to do is to change `email.json` to feature the email addresses of the companies you want to email.  
+The only thing left to do is to change the file `email.json` to feature the email addresses of the companies you want to email.  
 The `email.json` is structured like this:
 ```JSON
 {
