@@ -27,3 +27,7 @@ The `email.json` is structured like this:
 <br>
 
 Now just run the program and hope ✨ for the best ✨
+
+<br>
+
+Note: the body of the email can be edited in `Mail.java` in `/src/main/../mail/data/`
