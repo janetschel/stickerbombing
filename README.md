@@ -24,5 +24,6 @@ The `email.json` is structured like this:
   ]
 }
 ```
+<br>
 
 Now just run the program and hope ✨ for the best ✨
