@@ -20,8 +20,10 @@ public class Mail {
                 "sehr geehrtes Social-Media Team,\n\n" +
 
                 "schon seit klein auf bin ich ein großer Fan von Ihrem Unternehmen und vertrete auch noch im Erwachsenenalter Ihre Grundsätze.\n" +
-                "Ich bin gerade dabei mein Büro in der Homeoffice-Zeit etwas zu verschönern und wollte deshalb bei Ihnen anfragen, ob es möglich " +
+                "Ich bin gerade dabei mein Auto in der Homeoffice-Zeit etwas zu verschönern und wollte deshalb bei Ihnen anfragen, ob es möglich " +
                 "ist, einen oder mehrere Sticker von Ihnen zugeschickt zu bekommen.\n\n" +
+
+                "Bitte entschuldigen Sie, falls ich die falsche Email-Adresse ausgewählt habe.. ich habe leider keine bessere gefunden.\n\n" +
 
                 "Über eine Antwort oder gar einen Sticker würde ich mich sehr freuen.\n\n" +
 
