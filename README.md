@@ -4,11 +4,11 @@ A tool which lets you send emails to various companies you desire to hopefully g
 ### Usage
 
 *Optional*: Change the email body in `/src/main/../mail/data/Mail.java` to whatever you like.  
-If you use the newest Java 14 preview you can use text blocks for that.
+If you use the newest Java 14 preview you can use [text blocks](https://openjdk.java.net/jeps/355) for that.
 
 <br>
 
-Afert thats simply add an `application.yaml` file in the `/resource` directory structured like that:
+Add (you need to create it) an `application.yaml` file in the `/resource` directory structured like that:
 ```YAML
 secrets:
   email: "example_email@gmail.com"
@@ -21,7 +21,7 @@ An example address could be `first_name+last_name\nstreet_name+house_number\nsta
 
 <br>
 
-The only thing left to do is to change the file `email.json` to feature the email addresses of the companies you want to email.  
+This tool comes with a sophisticated *database* of emails from big companies. If you still want to change it to fit your personal needs better just change the `email.json` in the `/resource`directory.  
 The `email.json` is structured like this:
 ```JSON
 {
