@@ -21,7 +21,7 @@ An example address could be `first_name+last_name\nstreet_name+house_number\nsta
 
 <br>
 
-This tool comes with a sophisticated *database* of emails from big companies. If you still want to change it to fit your personal needs better just change the `email.json` in the `/resource`directory.  
+This tool comes with a sophisticated *database* of emails from big companies based in Germany. If you still want to change it to fit your personal needs better just change the `email.json` in the `/resource`directory.  
 The `email.json` is structured like this:
 ```JSON
 {
