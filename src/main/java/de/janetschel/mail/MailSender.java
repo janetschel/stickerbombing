@@ -36,11 +36,11 @@ public class MailSender {
 
             Transport.send(mimeMessage);
 
-            System.out.println(String.format("Email erfolgreich verschickt: %s", mail.getTo().getEmailAddress()));
+            System.out.printf("Email erfolgreich verschickt: %s%n", mail.getTo().getEmailAddress());
 
         } catch (MessagingException messagingException) {
-            System.out.println(String.format("Fehler beim verschicken der Email: %s\nGrund: %s",
-                    mail.getTo().getEmailAddress(), messagingException.getCause().toString()));
+            System.out.printf("Fehler beim verschicken der Email: %s\nGrund: %s%n",
+                    mail.getTo().getEmailAddress(), messagingException.getCause().toString());
         }
     }
 }
